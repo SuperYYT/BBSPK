@@ -1363,7 +1363,8 @@ const db_forums_ex = [
         title: "玩 MCBBS 导致的",
         url: "https://mcbbs.daozhi.de",
         archiveUrl: "https://web.archive.org/web/20240309114439/https://mcbbs.daozhi.de/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/11/10",
         note: "不如玩____",
         reference: []
     },
