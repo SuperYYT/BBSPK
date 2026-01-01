@@ -29,12 +29,13 @@ const db_forums = [
     {
         title: "网易我的世界论坛",
         url: "https://mc.netease.com",
-        state: "up",
+        state: "close",
         createdAt: "2016/09/20",
-        updatedAt: "2024/04/20",
+        closedAt: "2025/12/24",
+        updatedAt: "2025/12/27",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "由网易运营的我的世界中国版论坛，内嵌于客户端中。目前已禁止客户端以外的用户发帖，且 180 天前的帖子不可见。网易的游戏论坛业务已迁移至网易大神，网易我的世界论坛已基本停止运营。",
+        note: "网易的游戏论坛业务已迁移至网易大神，网易我的世界论坛已停止运营。",
         reference: []
     },
     {
