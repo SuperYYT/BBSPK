@@ -1030,9 +1030,9 @@ const db_forums = [
     {
         title: "每天BBS综合论坛",
         url: "https://www.mtbbs.top/",
-        state: "up",
+        state: "close",
         createdAt: "2024/05/10",
-        updatedAt: "2025/01/26",
+        updatedAt: "2026/01/10",
         hasICP: "in_progress",
         hasNetSec: "no",
         note: "非内地服务器。",
