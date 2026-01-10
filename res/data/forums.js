@@ -1205,9 +1205,9 @@ const db_forums = [
     {
         title: "Cilbup资源论坛",
         url: "https://cilbup.com/",
-        state: "up",
+        state: "close",
         createdAt: "2024/11/22",
-        updatedAt: "2024/12/26",
+        updatedAt: "2026/01/10",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。隶属于 HiMCBBS 论坛。",
