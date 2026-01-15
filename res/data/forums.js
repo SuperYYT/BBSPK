@@ -376,12 +376,12 @@ const db_forums = [
     {
         title: "SarBBS",
         url: "https://forum.sarskin.cn",
-        state: "down",
+        state: "failure",
         createdAt: "2023/01/05",
         updatedAt: "2026/01/15",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。已无法访问。",
+        note: "非大陆服务器。网络状况差，访问失败率高。",
         reference: [
             {
                 title: "新起的MC论坛——",
@@ -1229,7 +1229,7 @@ const db_forums = [
         url: "https://bbs.stbeikai.com",
         state: "down",
         createdAt: "2024/12/28",
-        updatedAt: "2025/03/02",
+        updatedAt: "2026/01/10",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "无。",
