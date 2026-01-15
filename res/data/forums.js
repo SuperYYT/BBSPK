@@ -354,7 +354,7 @@ const db_forums = [
     {
         title: "MCSbbs",
         url: "https://mcsbbs.cn",
-        state: "failure",
+        state: "down",
         createdAt: "2022/09/12",
         updatedAt: "2025/01/04",
         hasICP: "yes",
@@ -521,12 +521,12 @@ const db_forums = [
     {
         title: "SimpBBS",
         url: "https://www.simpbbs.com",
-        state: "up",
+        state: "failure",
         createdAt: "2023/10/28",
-        updatedAt: "2024/05/24",
+        updatedAt: "2026/01/15",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。已无法访问。",
         reference: []
     },
     {
