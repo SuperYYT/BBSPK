@@ -434,12 +434,12 @@ const db_forums = [
     {
         title: "McFun",
         url: "https://www.mcshuo.com",
-        state: "up",
+        state: "failure",
         createdAt: "2023/04/18",
-        updatedAt: "2024/04/20",
-        hasICP: "yes",
+        updatedAt: "2026/01/15",
+        hasICP: "no",
         hasNetSec: "no",
-        note: "论坛页面（https://www.mcshuo.com/forum.php）标题曾出现 “苦力怕论坛”，网站关键词曾出现 “苦力怕论坛官网”。",
+        note: "论坛页面（https://www.mcshuo.com/forum.php）标题曾出现 “苦力怕论坛”，网站关键词曾出现 “苦力怕论坛官网”。网站备案已取消，不再经营MC论坛，目前为服务器列表站。",
         reference: [
             {
                 title: "再见Mcbbs，新生McFun",
