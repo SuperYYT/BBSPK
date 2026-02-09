@@ -193,9 +193,9 @@ const db_forums = [
     {
         title: "我的世界UTC论坛",
         url: "https://bbs.mcutc.cn",
-        state: "up",
+        state: "down",
         createdAt: "2022/04/16",
-        updatedAt: "2024/04/20",
+        updatedAt: "2026/02/09",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "主要发布 Minecraft 衍生资源。",
@@ -559,9 +559,9 @@ const db_forums = [
     {
         title: "南瓜论坛",
         url: "https://www.ppbbs.top",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/16",
-        updatedAt: "2024/11/20",
+        updatedAt: "2026/02/09",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
