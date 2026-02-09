@@ -376,7 +376,7 @@ const db_forums = [
     {
         title: "SarBBS",
         url: "https://forum.sarskin.cn",
-        state: "failure",
+        state: "up",
         createdAt: "2023/01/05",
         updatedAt: "2026/01/15",
         hasICP: "no",
